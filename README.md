@@ -1,7 +1,7 @@
 ## Projeto Football Shop
 
 <div align="center">
-<img alt="Capa do projeto" src="public/shop.gif" width="50%">
+<img alt="Capa do projeto" src="public/shop.gif" width="100%">
 </div>
 
 ## 💻 Projeto
